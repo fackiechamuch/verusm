@@ -1,0 +1,2 @@
+# verusm
+Miner
